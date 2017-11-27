@@ -1,0 +1,16 @@
+[
+{
+  "modid": "electroniclunchbox",
+  "name": "Electronic Lunchbox",
+  "description": "",
+  "version": "",
+  "mcversion": "",
+  "url": "https://minecraft.curseforge.com/projects/electronic-lunchbox",
+  "updateUrl": "https://minecraft.curseforge.com/projects/electronic-lunchbox",
+  "authorList": ["meee39"],
+  "credits": "",
+  "logoFile": "electroniclunchbox.png",
+  "screenshots": [],
+  "dependencies": ["redstoneflux", "bookshelf"]
+}
+]
